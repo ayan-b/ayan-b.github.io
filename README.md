@@ -77,7 +77,7 @@ May - July, 2018
 
 - **Chat Web App**:  A full stack web app for real time chatting using sockets, built using NodeJS,Express, ReactJS, Socket.io, MongoDB.
 
-- **GitHub Activity Checker**:  A web app to show a GitHub user's public activities, built usingJavaScript, jQuery, Ajax, Material Design and GitHub API.
+- **GitHub Activity Checker**:  A web app to show a GitHub user's public activities, built using JavaScript, jQuery, Ajax, Material Design and GitHub API.
 
 ## Achievements
 

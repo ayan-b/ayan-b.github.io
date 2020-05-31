@@ -1,8 +1,5 @@
-# Ayan Banerjee
-
-Email: ayanbn7@gmail.com | Mobile: +91 8016399022
-
-Room No - 119, Hall - 4, NIT Durgapur, Durgapur - 713 209
+Email: ayanbn7@gmail.com  
+Address: Room No - 119, Hall - 4, NIT Durgapur, Durgapur - 713 209
 
 ## Education
 
@@ -38,9 +35,7 @@ May - Aug, 2019
 ### National Institute of Technology Durgapur
 _Durgapur, India_  
 Undergraduate Research Assistant  
-Feb 2019 – Jun 2019  
-Durgapur, West Bengal, India
-
+Feb - Jun, 2019
 - Worked on a deep learning project under the Mechanical Engineering department.
 - Technologies: Python, PyTorch, Numpy, Pandas 
 
@@ -67,30 +62,30 @@ May - July, 2018
 
 ## Publications
 
-- Mary J. Goldman, Brian Craft, Mim Hastie, Kristupas Repeka, Fran McDade, Akhil Kamath, **Ayan Banerjee**, Yunhai Luo, Dave Rogers, Angela N. Brooks, Jingchun Zhu & David Haussler, _“Visualizingand interpreting cancer genomics data via the Xena platform”_, May 22, 2020, Published at Nature Biotechnology.
+- Mary J. Goldman, Brian Craft, Mim Hastie, Kristupas Repeka, Fran McDade, Akhil Kamath, **Ayan Banerjee**, Yunhai Luo, Dave Rogers, Angela N. Brooks, Jingchun Zhu & David Haussler, _“Visualizing and interpreting cancer genomics data via the Xena platform”_, May 22, 2020, Published at Nature Biotechnology.
 
-- Aniq Ur Rahman, Sarnava Konar, **Ayan Banerjee**, _“Test-bench for Task Offloading Mechanisms:Modelling the Rewards of Non-stationary Nodes”_, Published at IEEE ANTS (2019), Goa, India.
+- Aniq Ur Rahman, Sarnava Konar, **Ayan Banerjee**, _“Test-bench for Task Offloading Mechanisms: Modelling the Rewards of Non-stationary Nodes”_, Published at IEEE ANTS (2019), Goa, India.
 
 ## Projects
 
-- **Dustbin Management System**:  Full stack web app integrated with a smart dustbin which can sensethe percentage filled and transmit the data using NodeMCU. The web app is built using Django, MaterializeCSS; this project came first in the IoT hackathon in Aavishkar, the tech fest of NITDurgapur; a team project.
+- **Dustbin Management System**:  Full stack web app integrated with a smart dustbin which can sense the percentage filled and transmit the data using NodeMCU. The web app is built using Django, MaterializeCSS; this project came first in the IoT hackathon in Aavishkar, the tech fest of NIT Durgapur; a team project.
 
-- **Chat Web App**:  A full stack web app for real time chatting using sockets, built using NodeJS,Express, ReactJS, Socket.io, MongoDB.
+- **Chat Web App**:  A full stack web app for real time chatting using sockets, built using NodeJS, Express, ReactJS, Socket.io, MongoDB.
 
 - **GitHub Activity Checker**:  A web app to show a GitHub user's public activities, built using JavaScript, jQuery, Ajax, Material Design and GitHub API.
 
 ## Achievements
 
 - Ranked 191st among 8251 participants in CodeChef February 2018 Long Challenge.
-- Ranked1881st among more than 150,000 participants in CodeChef (Best Ranking, Sept, ’18, Best Rating 2027 (5-star)).
+- Ranked 1881st among more than 150,000 participants in CodeChef (Best Ranking, Sept, ’18, Best Rating 2027 (5-star)).
 
 ## Skills
 
-- **Proficient In**:  C, C++, Python, Data Structures and Algorithms, Version Control System (git), ObjectOriented Programming, DBMS.
+- **Proficient In**:  C, C++, Python, Data Structures and Algorithms, Version Control System (git), Object Oriented Programming, DBMS.
 
 - **Familiar With**:  Linux, Go, Computer Networks, Operating System, Web Technologies (HTML, CSS, JavaScript), Backend Technologies (Django), Deep Learning, PyTorch, ReactJS, NodeJS, Docker, LATEX.
 
 ## Extracurricular Activities
 
 - National Service Scheme (2017 - 2019): Organized annual survey and medical camps in villages.
-- National Cadet Corps (2011-13, 2016-17):  Took part in parades during Sports Day, Independence Day and Republic Day.
+- National Cadet Corps (2011 - 13, 2016 - 17):  Took part in parades during Sports Day, Independence Day and Republic Day.

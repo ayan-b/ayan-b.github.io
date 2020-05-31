@@ -93,4 +93,4 @@ May - July, 2018
 ## Extracurricular Activities
 
 - National Service Scheme (2017 - 2019): Organized annual survey and medical camps in villages.
-- National Cadet Corps (2011-13, 2016-17):  Took part in parades during Sports Day, IndependenceDay and Republic Day.
+- National Cadet Corps (2011-13, 2016-17):  Took part in parades during Sports Day, Independence Day and Republic Day.

@@ -20,12 +20,14 @@ Address: Room No - 119, Hall - 4, NIT Durgapur, Durgapur - 713 209
 
 ## Experience
 
+<!--
 ### Google Summer of Code student at The Virtual Brain
 _Open Source_  
 Google Summer of Code student under International Neuroinformatics Coordinating Facility  
 May - Aug, 2020
 - Upgrading and Fixing TVB-Gdist library.
 - Technologies: C++, Cython, Git, Continuous Integration, Unit Testing
+-->
 
 ### Google Summer of Code student at UCSC Xena
 _Open Source_  

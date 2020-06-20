@@ -2,7 +2,7 @@
 
 Email: ayanbn7@gmail.com  
 Address: Room No - 119, Hall - 4, NIT Durgapur, Durgapur - 713 209  
-[LinkedIn](https://www.linkedin.com/in/ayanb/) | [GitHub](https://github.com/ayan-b) | [Google Scholar](https://scholar.google.com/citations?user=HQhMWIIAAAAJ) | [Resume](https://ayan-b.github.io/profile)
+[Blog](./blog) | [LinkedIn](https://www.linkedin.com/in/ayanb/) | [GitHub](https://github.com/ayan-b) | [Google Scholar](https://scholar.google.com/citations?user=HQhMWIIAAAAJ) | [Resume](https://ayan-b.github.io/profile)
 
 ## Education
 

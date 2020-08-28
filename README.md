@@ -4,36 +4,26 @@ Email: ayanbn7@gmail.com
 Address: Room No - 119, Hall - 4, NIT Durgapur, Durgapur - 713 209  
 [Blog](./blog) | [LinkedIn](https://www.linkedin.com/in/ayanb/) | [GitHub](https://github.com/ayan-b) | [Google Scholar](https://scholar.google.com/citations?user=HQhMWIIAAAAJ) | [Resume](https://ayan-b.github.io/profile)
 
-## Education
-
-- **National Institute of Technology Durgapur**
-
-    _Durgapur, India_  
-    B.Tech, Electronics and Communication Engineering, GPA: 9.21/10  
-    Jul 2016 - Jun 2020
-
-- **Sargachi Ramakrishna Mission High School**
-
-    _Sargachi, WB, India_  
-    Higher Secondary, Science, 96%, Ranked 13th in State, Topped in District; Secondary, 92.43%  
-    2008 - 2016
-
 ## Experience
 
-<!--
+### Software Developer
+_Bengaluru, India_  
+Siemens Healthineers  
+Aug, 2020 - Present  
+- Software Developer at the Customer Service team.
+
 ### Google Summer of Code student at The Virtual Brain
 _Open Source_  
-Google Summer of Code student under International Neuroinformatics Coordinating Facility  
+International Neuroinformatics Coordinating Facility  
 May - Aug, 2020
-- Upgrading and Fixing TVB-Gdist library.
+- Upgrading and Fixing TVB-Gdist library ([GitHub](https://github.com/the-virtual-brain/tvb-gdist)).
 - Technologies: C++, Cython, Git, Continuous Integration, Unit Testing
--->
 
 ### Google Summer of Code student at UCSC Xena
 _Open Source_  
-Google Summer of Code student under University of California, Santa Cruz  
+University of California, Santa Cruz  
 May - Aug, 2019
-- Implemented support more data formats for Xena Browser (https://xenabrowser.net) in an ETL (Extract Transform Load) pipeline (GitHub).
+- Implemented support more data formats for Xena Browser (https://xenabrowser.net) in an ETL (Extract Transform Load) pipeline ([GitHub](https://github.com/ucscXena/xena-GDC-ETL/)).
 - Data manipulation was done in Python with extensive usage of Pandas module.
 - Technologies: Python, Pandas, Numpy, Git, Continuous Integration, Unit Testing, AWS
 
@@ -64,6 +54,20 @@ May - July, 2018
 - Top 60 among more than 22,500 applicants.
 - Integrated a plagiarism detector with Yaksh, a course taking application, used inside IIT Bombay and in Spoken Tutorial courses by thousands of students.
 - Technologies: Python, Django, Git, SQL, HTML, CSS, Bootstrap, Unit Testing
+
+## Education
+
+- **National Institute of Technology Durgapur**
+
+    _Durgapur, India_  
+    B.Tech, Electronics and Communication Engineering, GPA: 9.21/10  
+    Jul 2016 - Jun 2020
+
+- **Sargachi Ramakrishna Mission High School**
+
+    _Sargachi, WB, India_  
+    Higher Secondary, Science, 96%, Ranked 13th in State, Topped in District; Secondary, 92.43%  
+    2008 - 2016
 
 ## Publications
 

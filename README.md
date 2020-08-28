@@ -60,7 +60,7 @@ May - July, 2018
 - **National Institute of Technology Durgapur**
 
     _Durgapur, India_  
-    B.Tech, Electronics and Communication Engineering, GPA: 9.21/10  
+    B.Tech, Electronics and Communication Engineering, GPA: 9.29/10  
     Jul 2016 - Jun 2020
 
 - **Sargachi Ramakrishna Mission High School**

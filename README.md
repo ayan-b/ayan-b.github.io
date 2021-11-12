@@ -9,7 +9,7 @@ Address: Room No - 119, Hall - 4, NIT Durgapur, Durgapur - 713 209
 ### Software Developer
 _Bengaluru, India_  
 Siemens Healthineers  
-Aug, 2020 - Present  
+Aug, 2020 - Oct, 2020  
 - Software Developer at the Customer Service team.
 
 ### Google Summer of Code student at The Virtual Brain

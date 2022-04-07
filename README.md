@@ -8,7 +8,7 @@ Email: ayanbn7@gmail.com
 ### Software Developer
 _Bengaluru, India_  
 Siemens Healthineers  
-Aug, 2020 - Oct, 2020  
+Aug, 2020 - Oct, 2021  
 - Software Developer at the Customer Service team.
 
 ### Google Summer of Code student at The Virtual Brain

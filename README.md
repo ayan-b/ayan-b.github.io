@@ -5,6 +5,12 @@ Email: ayanbn7@gmail.com
 
 ## Experience
 
+### Member Technical
+_Bengaluru, India_  
+The D. E. Shaw Group  
+Nov, 2021 - Present
+- Software Developer at Primary Research Group.
+
 ### Software Developer
 _Bengaluru, India_  
 Siemens Healthineers  
